@@ -52,6 +52,9 @@ print("Length of phrase:", len(phrase))  # Output: 14
 # 3. Indexing and Slicing
 # ----------------------------------------
 chicago_mayor = "Johnson"
+#index slicing
+print(chicago_mayor[0:4])
+
 print(len(chicago_mayor))
 print(chicago_mayor[0])
 print(chicago_mayor[4])
